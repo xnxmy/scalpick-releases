@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.14.30/Scalpick-win64.zip",
-  "notes": "Release v1.14.30",
-  "version": "1.14.30"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.14.31/Scalpick-win64.zip",
+    "version":  "1.14.31",
+    "notes":  "Release v1.14.31 - fix auto-update asset overwrite and manual update after dismiss"
 }
