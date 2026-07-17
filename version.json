@@ -1,0 +1,5 @@
+{
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.2/Scalpick-win64.zip",
+    "version":  "1.16.2",
+    "notes":  "EXE: процесс на биржу как в .py; ротация license_diag; Gate Spot WS без ложных 1011; Binance Size Alert snapshot устойчивее"
+}
