@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.19/Scalpick-win64.zip",
-    "version":  "1.16.19",
-    "notes":  "World Time sync: removed Time100; apply offset immediately (like 1.14.24); NTP + monotonic base instead of Windows clock"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.56/Scalpick-win64.zip",
+    "version":  "1.16.56",
+    "notes":  "обнова v1.16.56\n\nдостижения, направление в прокидах / size / special (ALL по умолчанию)"
 }
