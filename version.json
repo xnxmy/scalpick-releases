@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.59/Scalpick-win64.zip",
-    "version":  "1.16.59",
-    "notes":  "фикс запуска: backports.zstd/urllib3 + апдейтер Nuitka leftover"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.60/Scalpick-win64.zip",
+    "version":  "1.16.60",
+    "notes":  "фикс краша urllib3/backports.zstd при запуске"
 }
