@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.57/Scalpick-win64.zip",
-    "version":  "1.16.57",
-    "notes":  "OKX Аптик: panic-cancel, лайв пинг, API/прокси, хоткеи"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.58/Scalpick-win64.zip",
+    "version":  "1.16.58",
+    "notes":  "фикс обновления: больше не запускается старый Nuitka из _internal; OKX Аптик"
 }
