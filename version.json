@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.58/Scalpick-win64.zip",
-    "version":  "1.16.58",
-    "notes":  "фикс обновления: больше не запускается старый Nuitka из _internal; OKX Аптик"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.59/Scalpick-win64.zip",
+    "version":  "1.16.59",
+    "notes":  "фикс запуска: backports.zstd/urllib3 + апдейтер Nuitka leftover"
 }
