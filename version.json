@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.62/Scalpick-win64.zip",
-    "version":  "1.16.62",
-    "notes":  "shim _internal\\Scalpick.exe: обнова с 1.16.56 больше не поднимает старую версию"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.63/Scalpick-win64.zip",
+    "version":  "1.16.63",
+    "notes":  "фикс личных сообщений Ugly: доставка в виджет без команды (ключ в worker)"
 }
