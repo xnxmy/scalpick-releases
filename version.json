@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.60/Scalpick-win64.zip",
-    "version":  "1.16.60",
-    "notes":  "фикс краша urllib3/backports.zstd при запуске"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.61/Scalpick-win64.zip",
+    "version":  "1.16.61",
+    "notes":  "zstd в бандле нормально; фикс рестарта после обновы на корневой Scalpick.exe"
 }
