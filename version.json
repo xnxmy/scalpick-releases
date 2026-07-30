@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.63/Scalpick-win64.zip",
-    "version":  "1.16.63",
-    "notes":  "фикс личных сообщений Ugly: доставка в виджет без команды (ключ в worker)"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.64/Scalpick-win64.zip",
+    "version":  "1.16.64",
+    "notes":  "Достижения, прокси socks5/socks5h, Retry algos в часах, подсказки часов"
 }
