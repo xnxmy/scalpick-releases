@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.65/Scalpick-win64.zip",
-    "version":  "1.16.65",
-    "notes":  "Локализация Voice в Алгоритм Retry"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.66/Scalpick-win64.zip",
+    "version":  "1.16.66",
+    "notes":  "Retry/тики/озвучка часов без лагов; last tick с событиями; краш спреда на стрелке"
 }
