@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.67/Scalpick-win64.zip",
-    "version":  "1.16.67",
-    "notes":  "Фикс краша спреда time(); озвучка/тики часов"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.68/Scalpick-win64.zip",
+    "version":  "1.16.68",
+    "notes":  "Кастомные алерты вылетов: пороги F/S, живой %, озвучка без очереди при спаме"
 }
