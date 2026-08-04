@@ -1,5 +1,5 @@
 {
-  "version": "1.16.71",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.71/Scalpick-win64.zip",
-  "notes": "settings from install folder; in-place update; root launcher restart"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.72/Scalpick-win64.zip",
+    "version":  "1.16.72",
+    "notes":  "fix update discovery (jsDelivr); settings from install folder; in-place update"
 }
