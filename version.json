@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.69/Scalpick-win64.zip",
-    "version":  "1.16.69",
-    "notes":  "UTC часы + настройки в AppData, стабильное автообновление"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.71/Scalpick-win64.zip",
+    "version":  "1.16.71",
+    "notes":  "settings always from install folder (not _internal); update replaces same folder and restarts root launcher"
 }
