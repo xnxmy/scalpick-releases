@@ -1,5 +1,5 @@
 {
-  "version": "1.16.68",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.68/Scalpick-win64.zip",
-  "notes": "Кастомные алерты вылетов: пороги F/S, живой %, озвучка без очереди при спаме"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.69/Scalpick-win64.zip",
+    "version":  "1.16.69",
+    "notes":  "UTC часы + настройки в AppData, стабильное автообновление"
 }
