@@ -1,6 +1,5 @@
 {
-  "version": "1.16.72",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.72/Scalpick-win64.zip",
-  "notes": "settings from install folder; in-place update; jsDelivr manifest",
-  "ts": 1785834300
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.73/Scalpick-win64.zip",
+    "version":  "1.16.73",
+    "notes":  "обнова: dual settings (local+AppData), запись экрана с ленивой загрузкой Electron, default_settings.bat, zip ~70MB"
 }
