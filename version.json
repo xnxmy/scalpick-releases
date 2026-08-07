@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.73/Scalpick-win64.zip",
-    "version":  "1.16.73",
-    "notes":  "обнова: dual settings (local+AppData), запись экрана с ленивой загрузкой Electron, default_settings.bat, zip ~70MB"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.74/Scalpick-win64.zip",
+    "version":  "1.16.74",
+    "notes":  "kraken в сайз прокид и статистика"
 }
