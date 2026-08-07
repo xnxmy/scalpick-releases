@@ -1,5 +1,5 @@
 {
-  "version": "1.16.74",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.74/Scalpick-win64.zip",
-  "notes": "kraken в сайз прокид и статистика"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.75/Scalpick-win64.zip",
+    "version":  "1.16.75",
+    "notes":  "фикс CPU на Kraken size alert"
 }
