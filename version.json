@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.75/Scalpick-win64.zip",
-    "version":  "1.16.75",
-    "notes":  "fix CPU on Kraken size alert"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.76/Scalpick-win64.zip",
+    "version":  "1.16.76",
+    "notes":  "запись Tiger: время Deals.xml как UTC, поиск папок и WorkLog"
 }
