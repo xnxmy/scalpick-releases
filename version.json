@@ -1,5 +1,5 @@
 {
-  "version": "1.16.85",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.85/Scalpick-win64.zip",
-  "notes": "update v1.16.85"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.86/Scalpick-win64.zip",
+    "version":  "1.16.86",
+    "notes":  "меньше REST на Binance. точка в обычных алертах живая если принты идут. RK Check и OKX Uptick без прокси по умолчанию."
 }
