@@ -1,5 +1,5 @@
 {
-  "version": "1.16.86",
-  "notes": "update v1.16.86",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.86/Scalpick-win64.zip"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.87/Scalpick-win64.zip",
+    "version":  "1.16.87",
+    "notes":  "меню: доп строки при перетаскивании ярлыка появляются плавно и только у края"
 }
