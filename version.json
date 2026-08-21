@@ -1,5 +1,5 @@
 {
-  "version": "1.16.87",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.87/Scalpick-win64.zip",
-  "notes": "update v1.16.87"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.88/Scalpick-win64.zip",
+    "version":  "1.16.88",
+    "notes":  "SOCKS5 в сборке. Scalpick больше не сжигает лимит Binance и не банит IP вместе с Vataga"
 }
