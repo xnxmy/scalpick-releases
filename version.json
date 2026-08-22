@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.89/Scalpick-win64.zip",
     "version":  "1.16.89",
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.89/Scalpick-win64.zip",
     "notes":  "починил краш прокси-связки на первом шаге"
 }
