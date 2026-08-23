@@ -1,5 +1,5 @@
 {
-  "notes": "update v1.16.90",
-  "version": "1.16.90",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.90/Scalpick-win64.zip"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.16.91/Scalpick-win64.zip",
+    "version":  "1.16.91",
+    "notes":  "SSH в exe работает"
 }
