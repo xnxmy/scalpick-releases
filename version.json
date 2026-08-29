@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.2/Scalpick-win64.zip",
-    "version":  "1.17.2",
-    "notes":  "кастомные алерты: справка и меню бирж как у прокида. прокид доп: бай/селл копятся всё окно секунд"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.3/Scalpick-win64.zip",
+    "version":  "1.17.3",
+    "notes":  "проверка обновлений больше не висит на github raw"
 }
