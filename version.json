@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.4/Scalpick-win64.zip",
-    "version":  "1.17.4",
-    "notes":  "фикс автозапуска OBS из exe"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.5/Scalpick-win64.zip",
+    "version":  "1.17.5",
+    "notes":  "Магазин приложений: Альтушка в подписке, карточка с описанием и скрином"
 }
