@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.8/Scalpick-win64.zip",
-    "version":  "1.17.8",
-    "notes":  "fix HL spot UBTC prokid, wake up hint, correct exe version"
+  "version": "1.17.8",
+  "notes": "update v1.17.8",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.8/Scalpick-win64.zip"
 }
