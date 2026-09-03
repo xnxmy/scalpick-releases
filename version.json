@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.6/Scalpick-win64.zip",
-    "version":  "1.17.6",
-    "notes":  "Разбудить: выбор людей запоминается"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.7/Scalpick-win64.zip",
+    "version":  "1.17.7",
+    "notes":  "fix HL spot UBTC prokid, wake up hint text"
 }
