@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.12/Scalpick-win64.zip",
-    "version":  "1.17.12",
-    "notes":  "фильтр объёма 1м и 24ч для обычных процентных алертов"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.13/Scalpick-win64.zip",
+    "version":  "1.17.13",
+    "notes":  "шрифт A+/A- в палитре, волна по частотам, чёрный текст не сбрасывается, ресайз больше не раздувает текст"
 }
