@@ -1,5 +1,5 @@
 {
-  "version": "1.17.13",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.13/Scalpick-win64.zip",
-  "notes": "шрифт A+/A- в палитре, волна по частотам, чёрный текст не сбрасывается, ресайз больше не раздувает текст"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.14/Scalpick-win64.zip",
+    "version":  "1.17.14",
+    "notes":  "вылеты: 2 слота + обычный снизу, топ до конца 1м, тикеры без USDT"
 }
