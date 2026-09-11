@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.14/Scalpick-win64.zip",
-    "version":  "1.17.14",
-    "notes":  "вылеты: 2 слота + обычный снизу, топ до конца 1м, тикеры без USDT"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.15/Scalpick-win64.zip",
+    "version":  "1.17.15",
+    "notes":  "24h фильтр объёма: снимок больше не глушится шардом, работает на всех биржах"
 }
