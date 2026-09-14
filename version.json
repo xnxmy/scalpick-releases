@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.25/Scalpick-win64.zip",
-    "version":  "1.17.25",
-    "notes":  "История ленты: фикс чёрного экрана - QtWebEngineProcess видит Qt из Scalpick."
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.26/Scalpick-win64.zip",
+    "version":  "1.17.26",
+    "notes":  "История ленты: игнор ложного about:blank, retry загрузки, профиль в AppData."
 }
