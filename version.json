@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.26/Scalpick-win64.zip",
-    "version":  "1.17.26",
-    "notes":  "История ленты: игнор ложного about:blank, retry загрузки, профиль в AppData."
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.27/Scalpick-win64.zip",
+    "version":  "1.17.27",
+    "notes":  "Отправка данных: тогглы синхронизации статистики Scalpick (Ещё). Узкое окно, порядок кнопок в Ещё."
 }
