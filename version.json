@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.23/Scalpick-win64.zip",
-    "version":  "1.17.23",
-    "notes":  "История ленты: скачивание ресурсов только внутри меню настроек, без отдельного окна по центру."
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.24/Scalpick-win64.zip",
+    "version":  "1.17.24",
+    "notes":  "История ленты: после установки ресурсов окно открывается (добавлены QtWebChannel и связанные модули), без повторной скачки по кругу."
 }
