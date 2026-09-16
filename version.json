@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.27/Scalpick-win64.zip",
-    "version":  "1.17.27",
-    "notes":  "Отправка данных: тогглы синхронизации статистики Scalpick (Ещё). Узкое окно, порядок кнопок в Ещё."
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.28/Scalpick-win64.zip",
+    "version":  "1.17.28",
+    "notes":  "Фикс пресета 2, копирования тикера и лагов настроек. Звук как был."
 }
