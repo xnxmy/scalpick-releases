@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.28/Scalpick-win64.zip",
-    "version":  "1.17.28",
-    "notes":  "Фикс пресета 2, копирования тикера и лагов настроек. Звук как был."
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.29/Scalpick-win64.zip",
+    "version":  "1.17.29",
+    "notes":  "часы: компактные настройки, размер держится, поле секундного алгоса не пропадает по клику"
 }
