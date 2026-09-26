@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.29/Scalpick-win64.zip",
-    "version":  "1.17.29",
-    "notes":  "часы: компактные настройки, размер держится, поле секундного алгоса не пропадает по клику"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.30/Scalpick-win64.zip",
+    "version":  "1.17.30",
+    "notes":  "Запись сделок: ffmpeg GPU (NVENC/AMF), нарезка -c copy как в альтушке. Без Electron MediaRecorder."
 }
