@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.33/Scalpick-win64.zip",
-    "version":  "1.17.33",
-    "notes":  "Ð¾Ð±Ð½Ð¾Ð²Ð° v1.17.33"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.34/Scalpick-win64.zip",
+    "version":  "1.17.34",
+    "notes":  "obnova v1.17.34 - fix OSError 22 fromtimestamp"
 }
