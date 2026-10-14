@@ -1,5 +1,5 @@
 {
-  "version": "1.17.45",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.45/Scalpick-win64.zip",
-  "notes": "обнова v1.17.45"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.46/Scalpick-win64.zip",
+    "version":  "1.17.46",
+    "notes":  "Пульс в команде идёт через системный прокси, если прямой адрес молчит. Правый клик в полях алертов больше не роняет виджет."
 }
