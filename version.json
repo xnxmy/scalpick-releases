@@ -1,5 +1,5 @@
 {
-  "version": "1.17.58",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.58/Scalpick-win64.zip",
-  "notes": "меню: при сворачивании больше не торчат верхушки ярлыков следующей строки и столбца"
+  "version": "1.17.59",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.59/Scalpick-win64.zip",
+  "notes": "запись сделок: монитор пишется тот что выбран, сделки gate/okx из тайгера ловятся сразу. настройки не слетают в ноль, в \"загрузить с сервера\" можно выбрать прошлую версию"
 }
