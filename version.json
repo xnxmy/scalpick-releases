@@ -1,5 +1,5 @@
 {
-  "version": "1.17.57",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.57/Scalpick-win64.zip",
-  "notes": "фикс записи сделок: запись больше не перезапускается по кругу, хоткей и выбор мониторов работают, сделки OKX из тайгера снова пишутся"
+  "version": "1.17.58",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.58/Scalpick-win64.zip",
+  "notes": "меню: при сворачивании больше не торчат верхушки ярлыков следующей строки и столбца"
 }
