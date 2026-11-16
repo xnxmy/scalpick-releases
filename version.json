@@ -1,5 +1,5 @@
 {
-  "version": "1.17.59",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.59/Scalpick-win64.zip",
-  "notes": "запись сделок: монитор пишется тот что выбран, сделки gate/okx из тайгера ловятся сразу. настройки не слетают в ноль, в \"загрузить с сервера\" можно выбрать прошлую версию"
+  "version": "1.17.60",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.60/Scalpick-win64.zip",
+  "notes": "обновление больше не застревает: скальпик сам перезапускается после установки, даже если были открыты настройки"
 }
