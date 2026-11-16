@@ -1,5 +1,5 @@
 {
-  "version": "1.17.56",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.56/Scalpick-win64.zip",
-  "notes": "плотности: лонг вверх шорт вниз, Sp V HL только в истории"
+  "version": "1.17.57",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.57/Scalpick-win64.zip",
+  "notes": "фикс записи сделок: запись больше не перезапускается по кругу, хоткей и выбор мониторов работают, сделки OKX из тайгера снова пишутся"
 }
