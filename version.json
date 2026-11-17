@@ -1,5 +1,5 @@
 {
-  "version": "1.17.60",
-  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.60/Scalpick-win64.zip",
-  "notes": "обновление больше не застревает: скальпик сам перезапускается после установки, даже если были открыты настройки"
+    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.61/Scalpick-win64.zip",
+    "version":  "1.17.61",
+    "notes":  "проксисвязка: исправлен вылет на шаге Прогресс"
 }
