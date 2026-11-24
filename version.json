@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.61/Scalpick-win64.zip",
-    "version":  "1.17.61",
-    "notes":  "проксисвязка: исправлен вылет на шаге Прогресс"
+  "version": "1.17.62",
+  "url": "https://github.com/xnxmy/scalpick-releases/releases/download/v1.17.62/Scalpick-win64.zip",
+  "notes": "командные алерты: тоггл \"тревога только не за пк\" (по умолчанию вкл). если выключить, общая тревога будит и за компьютером, всё видно в истории"
 }
